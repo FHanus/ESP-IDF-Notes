@@ -1,4 +1,4 @@
-# ESP IDF in C++
+# ESP Microcontroller Programming Guide - Tribonix
 This repository summarizes notes and code for setting up ESP-IDF and programming using C++.
 This guide is aimed at ESP32s3 but most of the code and settings should be transferable.
 
