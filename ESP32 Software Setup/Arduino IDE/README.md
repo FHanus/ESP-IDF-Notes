@@ -4,4 +4,4 @@ This part of the repository describes the necessary steps of setting up Arduino 
 ## Arduino IDE installation
 Head to the Arduino website https://www.arduino.cc/en/software and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
 
-Note that the best way to download the Windows Arduino IDE application is by using the "Windows" option and ignoring the "Windows app" - store option.
+Note that the best way to download the Windows Arduino IDE application is by using the "Windows" option and ignoring the "Windows app" option that leads to Microsoft Store.
