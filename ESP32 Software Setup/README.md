@@ -1,4 +1,4 @@
-# IDF-Setup
+# ESP32 Software Setup
 
-Focuses on the steps neccesary to setup the ESP-IDF on your desktop.
+This part of the repository describes all the steps necessary to set up ESP32 programming software.
 This is mainly aimed and tested on Windows 11 and Ubuntu 22.04 but most of the information and settings should be transferable.
