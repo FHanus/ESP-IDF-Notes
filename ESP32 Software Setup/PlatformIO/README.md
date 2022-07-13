@@ -21,7 +21,7 @@ Reload VS Code
 ## Setup PlatformIO for ESP32s3
 Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
 
-In this new leftside bar click "Platforms" tab and search for "Espressif 32". Install this platform package.
+In this new leftside bar click "Platforms" tab and in the "Embedded" section search for "Espressif 32". Install this platform package.
 
 After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
 
@@ -49,7 +49,7 @@ Reload VS Code.
 ## Setup PlatformIO for ESP32s3
 Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
 
-In this new leftside bar click "Platforms" tab and search for "Espressif 32". Install this platform package.
+In this new leftside bar click "Platforms" tab and in the "Embedded" section search for "Espressif 32". Install this platform package.
 
 After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
 
