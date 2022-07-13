@@ -2,13 +2,15 @@
 This part of the repository describes the necessary steps of setting up PlatformIO for ESP32 programming.
 
 ## Visual Studio Code installation
-Head to the Visual Studio Code website https://code.visualstudio.com/download and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
-
+Head to the Visual Studio Code website and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
+```sh
+https://code.visualstudio.com/download
+```
 Start the setup of VS Code and complete the installation.
 
 * Make sure you select the "Add to PATH" option in additional tasks section.
 
-## Arduino IDE ESP32 board setup
+## VS Code PlatformIO installation
 Open the Arduino IDE application and head over to "File" tab. In the "File" settings select "preferences".
 
 * On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link: 
