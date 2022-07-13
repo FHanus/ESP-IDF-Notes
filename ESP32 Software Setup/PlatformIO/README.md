@@ -16,6 +16,8 @@ Open the VS Code application and head over to "Extensions" tab in the left bar.
 Type "PlatformIO IDE" in the search bar and install the extension.
 * Make sure you install "C/C++" extension as well.
 
+Reload VS Code
+
 ## Setup PlatformIO for ESP32s3
 Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
 
@@ -36,26 +38,28 @@ Install Flatpak by pasting the following commands into terminal:
 ```sh
 sudo apt install flatpak
 ```
-Install the Software Flatpak plugin
+Install the Software Flatpak plugin.
 ```sh
 sudo apt install gnome-software-plugin-flatpak
 ```
-Add the Flathub repository
+Add the Flathub repository.
 ```sh
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 ## Visual Studio Code installation
-Install VS Code using Flatpak
+Install VS Code using Flatpak.
 ```sh
 flatpak install flathub com.visualstudio.code
 ```
-Restart your session
+Restart your session.
 
 ## VS Code PlatformIO installation
 Open the VS Code application and head over to "Extensions" tab in the left bar.
 
 Type "PlatformIO IDE" in the search bar and install the extension.
 * Make sure you install "C/C++" extension as well.
+
+Reload VS Code.
 
 ## Setup PlatformIO for ESP32s3
 Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
