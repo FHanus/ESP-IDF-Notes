@@ -14,6 +14,7 @@ Start the setup of VS Code and complete the installation.
 Open the VS Code application and head over to "Extensions" tab in the left bar.
 
 Type "PlatformIO IDE" in the search bar and install the extension.
+* Make sure you install "C/C++" extension as well.
 
 ## Setup PlatformIO for ESP32s3
 Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
@@ -48,8 +49,20 @@ Install VS Code using Flatpak
 ```sh
 flatpak install flathub com.visualstudio.code
 ```
-
+Restart your session
 
 ## VS Code PlatformIO installation
+Open the VS Code application and head over to "Extensions" tab in the left bar.
+
+Type "PlatformIO IDE" in the search bar and install the extension.
+* Make sure you install "C/C++" extension as well.
 
 ## Setup PlatformIO for ESP32s3
+Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
+
+In this new leftside bar click "Platforms" tab and search for "Espressif 32". Install this platform package.
+
+After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
+
+* There should be "ESPRESSIF ESP32-S3-DEVKITC-1" option in the board selector. 
+* Select any framework you are familiar with, "Arduino" should be easier for a beginner user.
