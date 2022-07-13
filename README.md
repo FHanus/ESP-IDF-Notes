@@ -12,8 +12,10 @@ Tribonix website:
 
 Contributions, issues and feature requests are welcome.<br />
 Please ⭐️ this repository if this project helped you!<br />
-[Check Tribonix Webpage](https://www.tribonix.com/).
-[Check Tribonix LinkedIn](https://www.tribonix.com/).<br />
+
+[Check Tribonix gofundme page]([https://www.tribonix.com/](https://www.gofundme.com/f/donate-to-help-tribonix))!<br />
+[Check Tribonix Web](https://www.tribonix.com/)!<br />
+[Check Tribonix LinkedIn](https://www.linkedin.com/company/tribonix/mycompany/)!<br />
 
 ## Author
 
