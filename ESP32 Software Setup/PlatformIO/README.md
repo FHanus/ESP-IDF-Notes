@@ -1,8 +1,12 @@
 # ✨ ESP32 PlatformIO Setup on Windows 11
 This part of the repository describes the necessary steps of setting up PlatformIO for ESP32 programming.
 
-## Arduino IDE installation
+## Visual Studio Code installation
 Head to the Visual Studio Code website https://code.visualstudio.com/download and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
+
+Start the setup of VS Code and complete the installation.
+
+* Make sure you select the "Add to PATH" option in additional tasks section.
 
 ## Arduino IDE ESP32 board setup
 Open the Arduino IDE application and head over to "File" tab. In the "File" settings select "preferences".
