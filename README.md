@@ -11,8 +11,8 @@ Tribonix website:
 ## Show your support
 
 Contributions, issues and feature requests are welcome.<br />
-Please ⭐️ this repository if this project helped you!
-[Check Tribonix Webpage](https://www.tribonix.com/).<br />
+Please ⭐️ this repository if this project helped you!<br />
+[Check Tribonix Webpage](https://www.tribonix.com/).
 [Check Tribonix LinkedIn](https://www.tribonix.com/).<br />
 
 ## Author
