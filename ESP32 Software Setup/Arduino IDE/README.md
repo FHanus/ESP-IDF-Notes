@@ -9,7 +9,10 @@ Head to the Arduino website https://www.arduino.cc/en/software and from the "DOW
 ## Arduino IDE ESP32 board setup
 Open the Arduino IDE application and head over to "File" tab. In the "File" settings select "preferences".
 
-* On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+* On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link: 
+```sh
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+```
 
 Head over to the "Tools" tab in the Arduino IDE and in the middle section select "Board" > "Boards Manager...".
 
@@ -43,7 +46,10 @@ sudo ./install.sh
 ## Arduino IDE ESP32 board setup
 Open the Arduino IDE application and head over to "File" tab. In the "File" settings select "preferences".
 
-* On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+* On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link:
+```sh
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+```
 
 Head over to the "Tools" tab in the Arduino IDE and in the middle section select "Board" > "Boards Manager...".
 
