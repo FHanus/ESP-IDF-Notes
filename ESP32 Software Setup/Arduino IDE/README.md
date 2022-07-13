@@ -21,13 +21,21 @@ After downloading the boards package you should be good to go!
 This part of the repository describes the necessary steps of setting up Arduino IDE for ESP32 programming.
 
 ## Arduino IDE installation
-Head to the Arduino website https://www.arduino.cc/en/software and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
+Head to the Arduino website https://www.arduino.cc/en/software and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you. After downloading open the terminal window.
 
-* Go to your "Downloads" folder by typing
+* Navigate to your "Downloads" folder by typing:
 ```sh
 cd ~/Downloads
 ```
-* Next go into the Arduino installation folder, type the following and then press "tab" to fill out the rest of the folder name that includes the version you have just downloaded.
+* Unpack the Arduino installation files by typing:
 ```sh
-cd arduino
+tar -xvf arduino-1.8.19-linux64.tar.xz
+```
+* Next navigate into the Arduino installation folder. You can type just the couple of first letters of the name of the folder and then press "tab" key to fill out the rest of the folder name which includes the version you have just downloaded.
+```sh
+cd arduino-1.8.19
+```
+* Run the installation script by typing:
+```sh
+sudo ./install.sh
 ```
