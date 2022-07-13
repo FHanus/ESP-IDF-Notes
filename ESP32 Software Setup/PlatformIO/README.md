@@ -32,7 +32,10 @@ After all these steps you should be able to head to the "Home" section in Platfo
 This part of the repository describes the necessary steps of setting up PlatformIO for ESP32 programming.
 
 ## Visual Studio Code installation
-Microsoft suggests installing VS Code using Snap. Head over to Ubuntu Software and search for VS Code, press install.
+Microsoft suggests installing VS Code using Snap which is the same version provided in Ubuntu Software.
+* At the moment Flatpak version of VS Code is not officially supported, when this changes use it instead.
+
+Head over to Ubuntu Software and search for VS Code, press install.
 Restart your session.
 
 ## VS Code PlatformIO installation
