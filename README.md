@@ -2,15 +2,18 @@
 This repository summarizes notes and code for setting up ESP-IDF and other tools for ESP32 programming.
 This guide is aimed at ESP32s3 but most of the code and settings should be transferable.
 
-Tribonix website: https://www.tribonix.com/
+Tribonix website: 
 
 # Contains
 
 - IDF-Setup: focuses on the steps neccesary to setup the ESP-IDF on your desktop
 
-## 🤝 Contributing
+## Show your support
 
 Contributions, issues and feature requests are welcome.<br />
+Please ⭐️ this repository if this project helped you!
+[Check Tribonix Webpage](https://www.tribonix.com/).<br />
+[Check Tribonix LinkedIn](https://www.tribonix.com/).<br />
 
 ## Author
 
@@ -18,10 +21,6 @@ Contributions, issues and feature requests are welcome.<br />
 
 - LinkedIn: [@Filip Hanus](https://www.linkedin.com/in/hanusfilip/)
 - Github: [@FHanus](https://github.com/fhanus)
-
-## Show your support
-
-Please ⭐️ this repository if this project helped you!
 
 # Sources
 
