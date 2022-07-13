@@ -24,3 +24,12 @@ After all these steps you should be able to head to the "Home" section in Platfo
 
 * There should be "ESPRESSIF ESP32-S3-DEVKITC-1" option in the board selector. 
 * Select any framework you are familiar with, "Arduino" should be easier for a beginner user.
+
+# ✨ ESP32 PlatformIO Setup on Ubuntu 22.04
+This part of the repository describes the necessary steps of setting up PlatformIO for ESP32 programming.
+
+## Visual Studio Code installation
+
+## VS Code PlatformIO installation
+
+## Setup PlatformIO for ESP32s3
