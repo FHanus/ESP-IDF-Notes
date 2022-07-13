@@ -23,7 +23,7 @@ Click the "PlatformIO" tab in the left bar. A new window will open with its own 
 
 In this new leftside bar click "Platforms" tab and in the "Embedded" section search for "Espressif 32". Install this platform package.
 
-After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
+After all these steps you should be able to head to the "Home" section in PlatformIO and click "New Project".
 
 * There should be "ESPRESSIF ESP32-S3-DEVKITC-1" option in the board selector. 
 * Select any framework you are familiar with, "Arduino" should be easier for a beginner user.
@@ -51,7 +51,7 @@ Click the "PlatformIO" tab in the left bar. A new window will open with its own 
 
 In this new leftside bar click "Platforms" tab and in the "Embedded" section search for "Espressif 32". Install this platform package.
 
-After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
+After all these steps you should be able to head to the "Home" section in PlatformIO and click "New Project".
 
 * There should be "ESPRESSIF ESP32-S3-DEVKITC-1" option in the board selector. 
 * Select any framework you are familiar with, "Arduino" should be easier for a beginner user.
