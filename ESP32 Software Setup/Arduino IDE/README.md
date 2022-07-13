@@ -14,3 +14,5 @@ Open the Arduino IDE application and head over to "File" tab. In the "File" sett
 Head over to the "Tools" tab in the Arduino IDE and in the middle section select "Board" > "Boards Manager...".
 
 * In the search field, search for "esp32" and make sure the downloaded version is > 2.0.4
+
+After downloading the boards package you should be good to go!
