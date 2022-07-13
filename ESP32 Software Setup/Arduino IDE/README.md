@@ -1,4 +1,4 @@
-# ESP32 Arduino IDE Setup on Windows 11
+# ✨ ESP32 Arduino IDE Setup on Windows 11
 This part of the repository describes the necessary steps of setting up Arduino IDE for ESP32 programming.
 
 ## Arduino IDE installation
@@ -20,7 +20,7 @@ After downloading the boards package you should be good to go!
 # ESP32 Arduino IDE Setup on Ubuntu 22.04
 This part of the repository describes the necessary steps of setting up Arduino IDE for ESP32 programming.
 
-## Arduino IDE installation
+## ✨ Arduino IDE installation
 Head to the Arduino website https://www.arduino.cc/en/software and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you. After downloading open the terminal window.
 
 * Navigate to your "Downloads" folder by typing:
