@@ -11,13 +11,16 @@ Start the setup of VS Code and complete the installation.
 * Make sure you select the "Add to PATH" option in additional tasks section.
 
 ## VS Code PlatformIO installation
-Open the Arduino IDE application and head over to "File" tab. In the "File" settings select "preferences".
+Open the VS Code application and head over to "Extensions" tab in the left bar.
 
-* On the bottom side of the window, there is a text field "Additional Boards Manager URLs:" and into this field paste the following link: 
-```sh
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-```
+Type "PlatformIO IDE" in the search bar and install the extension.
 
-Head over to the "Tools" tab in the Arduino IDE and in the middle section select "Board" > "Boards Manager...".
+## Setup PlatformIO for ESP32s3
+Click the "PlatformIO" tab in the left bar. A new window will open with its own leftside bar.
 
-* In the search field, search for "esp32" and make sure the downloaded version is > 2.0.4
+In this new leftside bar click "Platforms" tab and search for "Espressif 32". Install this platform package.
+
+After all these steps you should be able to head to the "Home" section in PlatformIO and after clicking "New Project".
+
+* There should be "ESPRESSIF ESP32-S3-DEVKITC-1" option in the board selector. 
+* Select any framework you are familiar with, "Arduino" should be easier for a beginner user.
