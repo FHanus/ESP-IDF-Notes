@@ -28,7 +28,27 @@ After all these steps you should be able to head to the "Home" section in Platfo
 # ✨ ESP32 PlatformIO Setup on Ubuntu 22.04
 This part of the repository describes the necessary steps of setting up PlatformIO for ESP32 programming.
 
+## Flatpak installation
+Flatpak is currently one of the easiest way to install different applications and keep them updated.
+
+Install Flatpak by pasting the following commands into terminal:
+```sh
+sudo apt install flatpak
+```
+Install the Software Flatpak plugin
+```sh
+sudo apt install gnome-software-plugin-flatpak
+```
+Add the Flathub repository
+```sh
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
 ## Visual Studio Code installation
+Install VS Code using Flatpak
+```sh
+flatpak install flathub com.visualstudio.code
+```
+
 
 ## VS Code PlatformIO installation
 
