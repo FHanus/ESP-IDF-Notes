@@ -36,7 +36,7 @@ https://www.eclipse.org/downloads/
 * Navigate to the Downloads folder, extract the file and install Eclipse IDE by opening the "eclipse-inst" file.
 
 ## Eclipse setup and guidelines
-There is a detailed walk-through guide for the Eclipse ESP Plugin that you can follow to set up. There is a detailed walk you through taht is unnecessary to copy after the point of the instalation steps desribed above.
+There is a detailed walk-through guide for the Eclipse ESP Plugin that you can follow to set it up. It is unnecessary to copy all these steps into this guide past the point of the instalation steps described above.
 ```sh
 https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 ```
