@@ -25,4 +25,4 @@ After the installation is complete, a new application will be made available usi
 
 Suggested app to actually write all your code in is either VS Code or much simpler tools like Sublime Text.
 
-*Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!
+*Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!*
