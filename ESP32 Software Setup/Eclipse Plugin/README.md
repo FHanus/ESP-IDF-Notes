@@ -27,17 +27,15 @@ Download Eclipse IDE installer from the link below.
 ```sh
 https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers
 ```
-* Navigate to the Downloads folder and install Eclipse IDE
-* ```sh
-* cd ~/Downloads
-* tar -xvf eclipse-cpp-2022-06-R-linux-gtk-x86_64.tar.gz
-* ```
-
+*Navigate to the Downloads folder and install Eclipse IDE*
+``sh
+cd ~/Downloads
+tar -xvf eclipse-cpp-2022-06-R-linux-gtk-x86_64.tar.gz
+```
 Install the rest of the needed tools by typing the following command in the terminal.
 ```sh
 sudo apt-get install git wget flex bison gperf python3 python3-venv cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
 ```
-
 Create a folder for your ESP installation and clone the Espressif ESP-IDF repository.
 ```sh
 mkdir -p ~/esp
