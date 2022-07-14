@@ -20,8 +20,8 @@ https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 ```
 ## Installing Prerequisites
 Install the required tools using the links bellow.
-* **Java 11 and above** : Download and install Java SE from <a href= "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a>
-* **Eclipse IDE for C/C++ Developers 2022-06 (2021-06 and higher is supported)** : Download and install Eclipse CDT package from <a href= "https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers">here </a>
+* **Java 11 and above** : Download and install Java from <a href= "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a>
+* **Eclipse IDE** : Download and install Eclipse from <a href= "https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers">here </a>
 
 Install the rest of the needed tools by typing the following command in the terminal.
 ```sh
