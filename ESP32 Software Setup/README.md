@@ -1,4 +1,4 @@
-# ✨ Options of software used to program ESP32
+# ✨ Different ways of programming ESP32 and how to set them up
 This part of the repository describes the necessary steps of setting up your device for ESP32 programming.
 Arduino IDE is not recommended for complex programs as it does not naturally support RTOS. Programming using ESP-IDF has the benefit of flash encryption and secured boot.
 
