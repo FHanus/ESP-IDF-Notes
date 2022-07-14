@@ -17,3 +17,5 @@ The installer deploys the following components:
 * OpenOCD
 * CMake and Ninja build tools
 * ESP-IDF 
+
+At the end of the installation process you can check out option Run ESP-IDF PowerShell Environment or Run ESP-IDF Command Prompt (cmd.exe). The installer will launch ESP-IDF environment in selected prompt. Do not forget to tick "Register the ESP-IDF Tools Executables as Windows Defender exclusions."
