@@ -1,4 +1,15 @@
-# ESP32 Software Setup
+# ✨ Options of software used to program ESP32
+This part of the repository describes the necessary steps of setting up your device for ESP32 programming.
 
-This part of the repository describes all the steps necessary to set up ESP32 programming software.
-This is mainly aimed and tested on Windows 11 and Ubuntu 22.04 but most of the information and settings should be transferable.
+There are three levels of ESP32 programming. For the most basic experiments Arduino 
+
+
+## Arduino IDE
+
+## PlatformIO IDE
+
+## ESP-IDF
+comes with the freeRTOS
+Flash encryption and secured boot.
+
+# ESP-IDF Eclipse Plugin
