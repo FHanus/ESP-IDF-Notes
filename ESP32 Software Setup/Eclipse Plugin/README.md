@@ -1,14 +1,9 @@
 # ✨ ESP32 Eclipse Setup on Windows 11
-There is a detailed walk-through guide to Eclipse ESP Plugin that you can follow if you find any of the following instructions too simple.
+
+## Eclipse setup and guidelines
+There is a detailed walk-through guide for the Eclipse ESP Plugin that you can follow to set it up. It is unnecessary to copy all these steps into this guide past the point of the instalation steps described above.
 ```sh
 https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
-```
-
-## Visual Studio Code installation
-Head to the Visual Studio Code website and from the "DOWNLOAD OPTIONS" select one that is the most suitable for you.
-
-```sh
-https://code.visualstudio.com/download
 ```
 
 # ✨ ESP32 Eclipse Setup on Ubuntu 22.04
