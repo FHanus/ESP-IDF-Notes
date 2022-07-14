@@ -27,7 +27,7 @@ Download Eclipse IDE installer from the link below.
 ```sh
 https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers
 ```
-*Navigate to the Downloads folder and install Eclipse IDE*
+* Navigate to the Downloads folder and install Eclipse IDE
 ``sh
 cd ~/Downloads
 tar -xvf eclipse-cpp-2022-06-R-linux-gtk-x86_64.tar.gz
