@@ -11,3 +11,9 @@ https://dl.espressif.com/dl/esp-idf/?idf=4.4
 
 * Select the green, online option for a faster instalation if you have a sufficiently good internet download speed. Otherwise go for the offline version.
 
+The installer deploys the following components:
+* Embedded Python
+* Cross-compilers
+* OpenOCD
+* CMake and Ninja build tools
+* ESP-IDF 
