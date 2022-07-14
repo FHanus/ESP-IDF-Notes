@@ -78,3 +78,12 @@ Install ESP-IDF using the following commands:
 cd ~/esp/esp-idf
 ./install.sh esp32,esp32s2, esp32s3
 ```
+* Add any other targets you might want to use.
+
+## Set up the environment variables
+The installed tools are not yet added to the PATH environment variable. To make the tools usable from the command line, some environment variables must be set. ESP-IDF provides another script which does that.
+
+In the terminal where you are going to use ESP-IDF, run:
+```sh
+. $HOME/esp/esp-idf/export.sh
+```
