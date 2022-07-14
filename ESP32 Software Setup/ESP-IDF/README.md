@@ -73,3 +73,8 @@ git clone --recursive https://github.com/espressif/esp-idf.git
 ```
 * Note that CMake version 3.16 or newer is required for use with ESP-IDF. Run “tools/idf_tools.py install cmake” to install a suitable version if your OS versions doesn’t have one.
 
+Install ESP-IDF using the following commands:
+```sh
+cd ~/esp/esp-idf
+./install.sh esp32,esp32s2, esp32s3
+```
