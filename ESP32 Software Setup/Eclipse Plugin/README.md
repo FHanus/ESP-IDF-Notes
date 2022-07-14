@@ -19,9 +19,19 @@ There is a detailed walk-through guide to Eclipse ESP Plugin that you can follow
 https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 ```
 ## Installing Prerequisites
-Install the required tools using the links bellow.
-* **Java 11 and above** : Download and install Java from <a href= "https://www.oracle.com/technetwork/java/javase/downloads/index.html">here</a>
-* **Eclipse IDE** : Download and install Eclipse from <a href= "https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers">here </a>
+Install Java from the link below, make sure you select the appropriete file that you then open and install using Software Installer.
+```sh
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+```
+Download Eclipse IDE installer from the link below.
+```sh
+https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers
+```
+* Navigate to the Downloads folder and install Eclipse IDE
+```sh
+cd ~/Downloads
+tar -xvf eclipse-cpp-2022-06-R-linux-gtk-x86_64.tar.gz
+```
 
 Install the rest of the needed tools by typing the following command in the terminal.
 ```sh
