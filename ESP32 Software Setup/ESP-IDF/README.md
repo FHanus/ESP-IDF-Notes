@@ -49,3 +49,7 @@ idf.py -p PORT flash monitor
 ```
 
 * Replace the "PORT" with the name of the port of the device, you can find this in the device manager.
+
+## Tips for using the ESP-IDF
+Easiest way to start a new project is navigating into the ESP-IDF folder and copying one of the examples to your project depository.
+Test the provided examples for a better understanding of the code and follow the tips in this repository on how to leverage the most of the ESP32.
