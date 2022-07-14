@@ -42,7 +42,7 @@ idf.py set-target esp32s3
 idf.py build
 ```
 
-The best way to then upload your compiled program onto the target device is by typing:
+The best way to then upload (and right after upload start monitoring the output) your compiled program onto the target device is by typing:
 
 ```sh
 idf.py -p PORT flash monitor
