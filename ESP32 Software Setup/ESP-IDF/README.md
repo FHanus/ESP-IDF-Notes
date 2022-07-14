@@ -52,4 +52,4 @@ idf.py -p PORT flash monitor
 
 ## Tips for using the ESP-IDF
 Easiest way to start a new project is navigating into the ESP-IDF folder and copying one of the examples to your project depository.
-Test the provided examples for a better understanding of the code and follow the tips in this repository on how to leverage the most of the ESP32.
+Test the provided examples for a better understanding of the code and follow the tips in this repository and the corresponding lecture notes on how to leverage the most of the ESP32.
