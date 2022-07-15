@@ -4,7 +4,7 @@ This guide is aimed at ESP32s3 but most of the code and settings should be trans
 
 ## ⭐️ Contains
 
-* ESP-IDF C++ Programming Notes: describes the programming of ESP32 in the most understandable and describtive way so you can take on with your own projects without wasting any time!
+* ESP-IDF Programming Notes: describes the programming of ESP32 in the most understandable and describtive way so you can take on with your own projects without wasting any time!
 * ESP32 Software Setup: focuses on the steps neccesary to setup the ESP-IDF on your desktop using all the recommended ways starting from the most simple to the most complex ways depending on your demands and skill level.
 
 ## 🤝 Show your support
