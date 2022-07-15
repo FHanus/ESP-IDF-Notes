@@ -24,8 +24,9 @@ At the end of the installation process you can check out option Run ESP-IDF Powe
 After the installation is complete, a new application will be made available using one of the two propts you have selected. It will be either a PowerShell or CMD app called ESP-IDF. This will be the tool you will use to program your ESP32 device.
 
 Suggested app to actually write all your code in is either VS Code or much simpler tools like Sublime Text.
+* If you desire a fancier way of programming the ESP-IDF, you can head to teh VS Code application and install Espressif extension. After that open the view > command palette and enter: >ESP-IDF: Configure ESP-IDF Extension. From there select the current installed ESP-IDF instance and you should be good to go!
 
-* Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!
+Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!
 
 After creating the depository for your new project, navigate into it in the ESP-IDF prompt.
 
@@ -94,10 +95,9 @@ Open the terminal and the following code to start the ESP-IDF application.
 get_idf
 ```
 
+* If you desire a fancier way of programming the ESP-IDF, you can head to teh VS Code application and install Espressif extension. After that open the view > command palette and enter: >ESP-IDF: Configure ESP-IDF Extension. From there select the current installed ESP-IDF instance and you should be good to go!
 
-Suggested app to actually write all your code in is either VS Code or much simpler tools like Sublime Text.
-
-* Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!
+Note that the ESP-IDF build system does not support spaces in the paths to either ESP-IDF or to projects!
 
 After creating the depository for your new project, navigate into it in the ESP-IDF prompt.
 
