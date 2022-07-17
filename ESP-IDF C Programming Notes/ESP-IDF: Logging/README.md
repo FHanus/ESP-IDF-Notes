@@ -1,5 +1,9 @@
 # ✨ Logging
 ESP-IDF comes with an useful logging capability which can be used for standard logging or debugging purposes.
+Include the ESP_LOG library:
+```sh
+#include "esp_log.h"
+```
 There are couple verbosity levels that can be set for different logging purposes:
 
  * Error (lowest)
