@@ -1,5 +1,6 @@
 # ✨ Random Number
-ESP-IDF comes with an useful logging capability which can be used for standard logging or debugging purposes.
+ESP-IDF has its own random number generator function.
+
 Include the ESP_LOG library:
 ```sh
 #include "esp_system.h"
