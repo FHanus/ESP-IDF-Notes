@@ -1,4 +1,4 @@
-# ✨ Logging
+# ✨ GPIO
 ESP-IDF has a tidy way to setup and control the GPIO pins.
 Include the GPIO driver library:
 ```sh
