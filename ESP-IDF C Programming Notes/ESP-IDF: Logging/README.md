@@ -33,3 +33,7 @@ ESP_LOGD("LOGGING", "This is a debug");
 ESP_LOGV("LOGGING", "This is verbose");
 ```
 
+## 📝 Dig deeper
+```sh
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/log.html
+```
