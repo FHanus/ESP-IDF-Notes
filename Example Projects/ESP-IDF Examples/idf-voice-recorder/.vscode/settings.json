@@ -1,4 +1,23 @@
 {
     "idf.adapterTargetName": "esp32s3",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "esp_log.h": "c",
+        "soc_caps.h": "c",
+        "sdmmc_host.h": "c",
+        "protocol_examples_common.h": "c",
+        "nvs_flash.h": "c",
+        "esp_wifi.h": "c",
+        "esp_vfs_fat.h": "c",
+        "i2s.h": "c",
+        "esp_netif.h": "c",
+        "sdkconfig.h": "c",
+        "esp_system.h": "c",
+        "esp_event.h": "c",
+        "esp_err.h": "c",
+        "esp_spiffs.h": "c",
+        "unistd.h": "c",
+        "esp_http_server.h": "c",
+        "esp_vfs.h": "c"
+    }
 }

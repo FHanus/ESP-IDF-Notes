@@ -1,4 +1,4 @@
-/* HTTP File Server Example
+/* IDF-Voice-Recorder
 
    This example code is in the Public Domain (or CC0 licensed, at your option.)
 
@@ -7,18 +7,9 @@
    CONDITIONS OF ANY KIND, either express or implied.
 */
 
-#include <stdio.h>
-#include <string.h>
 #include <sys/param.h>
-#include <sys/unistd.h>
-#include <sys/stat.h>
-#include <dirent.h>
-
-#include "esp_err.h"
 #include "esp_log.h"
-
 #include "esp_vfs.h"
-#include "esp_spiffs.h"
 #include "esp_http_server.h"
 
 /* Max length a file path can have on storage */
