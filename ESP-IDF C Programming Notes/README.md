@@ -11,6 +11,8 @@ These are the guides described in the following sections.
 # ✨ ESP-IDF Project Structure
 The following text demostrates recommended project structure for ESP-IDF programming. Refer to the examples for further understanding in context.
 ### Recommended folder structure
+This is the recommended folder structure of a ESP-IDF project. Note that every file/folder has an explanation next to it.
+
     .
     ├── .devcontainer            # Docker config, ignore - gets created automatically
     ├── .vscode                  # VS Code config files, ignore - gets created automatically
