@@ -27,11 +27,21 @@ The following text demostrates recommended project structure for ESP-IDF program
     ├── main                     # Folder with the main files  
     │   ├── CMakeLists.txt       # CMakeLists, structure of this file will be described below
     │   └── main.c               # Main C file
+    ├── Makefile                 # (optional) Can help with eliminating VSCode bugs caused by adding external component directories
     ├── CMakeLists.txt           # CMakeLists, structure of this file will be described below
     ├── sdkconfig                # sdkconfig, structure of this file will be described below
     └── sdkconfig.defaults       # sdkconfig.defaults, structure of this file will be described below
     
 ### CMakeLists files
+This part of the tutorial describes the structure of the CMakeLists files. They differ based on the location. A CMakeLists.txt needs to be in the folder of the project. This CMake initializes location and version of the esp-idf ".cmake" file, sets the name of the project. A CMakeLists.txt needs to be in the main folder of the project. This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.  A CMakeLists.txt needs to be in each of the component folders, its structure is the same as the CMakeLists in the main folder.
+#### CMakeLists in the project folder
+This CMake initializes location and version of the esp-idf ".cmake" file, sets the name of the project.
+
+#### CMakeLists in the main folder
+This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.
+
+#### CMakeLists in the component folder
+This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.
 
 ### sdkconfig files
 
