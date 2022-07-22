@@ -8,6 +8,13 @@ These are the guides described in the following sections.
 * Logging
 * Random Numbers
 
+# ✨ ESP-IDF New Project
+If you decided to develop only using the ESP-IDF terminal application in combination with a text editor, navigate into the desired folder and run the following code to create a new project folder.
+```sh
+idf.py create-project name
+```
+If you develop using the VSCode ESP-IDF application, open VSCode command palette and run ">ESP-IDF: New Project". Set the desired variables and proceed to "Choose Template" tab. Select the "ESP-IDF" extension option and pick a project that you will base your project on. The default is "sample_project".
+
 # ✨ ESP-IDF Project Structure
 The following text demostrates recommended project structure for ESP-IDF programming. Refer to the examples for further understanding in context.
 ### Recommended folder structure
