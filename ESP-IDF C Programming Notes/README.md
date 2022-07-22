@@ -37,13 +37,29 @@ This is the recommended folder structure of a ESP-IDF project. Note that every f
 ### CMakeLists files
 This part of the tutorial describes the structure of the CMakeLists files. They differ based on the location. A CMakeLists.txt needs to be in the folder of the project. This CMake initializes location and version of the esp-idf ".cmake" file, sets the name of the project. A CMakeLists.txt needs to be in the main folder of the project. This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.  A CMakeLists.txt needs to be in each of the component folders, its structure is the same as the CMakeLists in the main folder.
 #### CMakeLists in the project folder
-This CMake initializes location and version of the esp-idf ".cmake" file, sets the name of the project.
+This CMake initializes location and version of the esp-idf ".cmake" file, sets the name of the project. Most of this is created automatically and only minor edits usually need to be made.
+Example structure:
+```sh
+cmake_minimum_required(VERSION 3.5)
+
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+project(example)
+```
 
 #### CMakeLists in the main folder
-This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.
+This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files. Most of this is created automatically and only minor edits usually need to be made.
+```sh
+idf_component_register(SRCS "main.c"
+                    INCLUDE_DIRS ".")
+```
 
 #### CMakeLists in the component folder
-This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files.
+This CMake initializes the names of the files in this folder, necessary include directories and optionally required additional files. Most of this is created automatically and only minor edits usually need to be made.
+```sh
+idf_component_register(SRCS "example.c"
+                    INCLUDE_DIRS .
+                    REQUIRES example_file)
+```
 
 ### sdkconfig files
 
