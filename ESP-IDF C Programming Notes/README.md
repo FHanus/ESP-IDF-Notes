@@ -62,9 +62,9 @@ idf_component_register(SRCS "example.c"
 ```
 
 ### sdkconfig files
-These files have a couple of different types. Every time a project is compiled the standard sdkconfig file gets created. This automatically file contains necassary settings and should not be edited.
+These files have a couple of different types. Every time a project is compiled the standard sdkconfig file gets created. This automatically generated file contains necassary settings and should not be edited.
 
-To secure a certain settings and make sure they do not change after compilation, sdkconfig.defaults file can be created. These settings can involve creating a custom partitioning system or lock lenghts of certain system variables. See examples to understand the applications of this file.
+To lock a certain settings and make sure they do not change after compilation, sdkconfig.defaults file can be created. These settings can involve creating a custom partitioning system or set lenghts of certain system variables. See examples to understand the applications of this file.
 
 
 
