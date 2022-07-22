@@ -28,6 +28,10 @@ These are the guides described in the following sections.
     ├── CMakeLists.txt           # CMakeLists, structure of this file will be described below
     ├── sdkconfig                # sdkconfig, structure of this file will be described below
     └── sdkconfig.defaults       # sdkconfig.defaults, structure of this file will be described below
+    
+### CMakeLists files
+
+### sdkconfig files
 
 
 
