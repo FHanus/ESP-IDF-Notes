@@ -1,7 +1,14 @@
-ESP-IDF C Notes
-============================
+# ✨ ESP-IDF Notes
+These notes summarize the neccessary information from various online courses and books. The lectures involve low level C programming all the way up to more complex concepts related to the real time operating system.
 
-> These notes summarize the neccessary information from the online ESP IDF in C++ course created by Simon Howroyd.
+## The featured notes:
+These are the guides described in the following sections.
+* Arduino IDE
+* PlatformIO IDE
+* ESP-IDF
+* ESP-IDF Eclipse Plugin
+
+> e ESP IDF in C++ course created by Simon Howroyd.
 
 ### Described folder structure
 
