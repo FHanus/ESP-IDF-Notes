@@ -1,4 +1,4 @@
-# ✨ ESP-IDF Notes
+# ✨ ESP-IDF Programming Notes
 These notes summarize the neccessary information from various online courses and books. The lectures involve low level C programming all the way up to more complex concepts related to the real time operating system.
 
 ## The featured notes:
@@ -8,6 +8,8 @@ These are the guides described in the following sections.
 * Logging
 * Random Numbers
 
+# ✨ ESP-IDF Project Structure
+The following text demostrates recommended project structure for ESP-IDF programming. Refer to the examples for further understanding in context.
 ### Recommended folder structure
     .
     ├── .devcontainer            # Docker config, ignore - gets created automatically
